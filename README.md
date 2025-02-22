@@ -1,6 +1,5 @@
-## Hello there 🦾🦾🤖🦾🦾
-
-<h3 align="center"><strong>Dominic Galgano</strong></h3>
+<h1 align="center"><strong>Dominic Galgano</strong></h1>
+<h3 align="center">Hello there 🦾🦾🤖🦾🦾</h3>
 
 <!--
 **The1Dominater/The1Dominater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
