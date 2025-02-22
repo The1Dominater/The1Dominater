@@ -9,4 +9,4 @@
 - 🤔 I’m looking for help with finding a job
 - 📫 How to reach me: dominicgalgano@gmail.com
 - 📜 My [resume](https://dwg.servehttp.com/resume) 
-- ⚡ Fun fact: Lutefisk has been eatan in Norway for over a millenia!🤮(No one said it had to be about me) [Source](https://ingebretsens-blog.com/eating-fish-the-scandinavian-way/)
+- ⚡ Fun fact: Lutefisk has been eaten in Norway for over a millenia!🤮(No one said it had to be about me) [Source](https://ingebretsens-blog.com/eating-fish-the-scandinavian-way/)
